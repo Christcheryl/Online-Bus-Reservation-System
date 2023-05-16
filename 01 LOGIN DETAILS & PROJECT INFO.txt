@@ -1,0 +1,9 @@
+
+*Database Name: obrsphp*
+
+**Admin Login Details**
+
+Username: admin
+Password: codeastro.com
+
+
